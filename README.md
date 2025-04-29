@@ -44,6 +44,7 @@ The dashboard is interactive and enables stakeholders to explore employee data a
 
 ## 🖼️ Dashboard Preview
 
+![HR Dashboard Screenshot](HR_Dashboard.png)
 
 
 ## 🔍 Insights & Findings
